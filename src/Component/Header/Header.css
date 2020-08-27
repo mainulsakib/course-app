@@ -1,0 +1,19 @@
+div{
+
+}
+.bannerSection{
+    Background-image:linear-gradient(120deg,#30336b,#130f40);
+    height:100px;
+    color:white;
+}
+div a{
+    text-decoration:none;
+   
+    padding: 10px;
+    color:white;
+    
+}
+.link{
+     Background-image:linear-gradient(120deg,#30336b,#130f40);
+     height: 50px;
+}
