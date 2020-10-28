@@ -4,7 +4,7 @@ import {useState } from 'react';
 import Courses from '../Courses/Courses';
 import Cart from '../Cart/Cart';
 import './body.css'
-import {Container} from 'react-bootstrap/Container'
+
 
 const Body = () => {
     const [cart,setCart]=useState([])
